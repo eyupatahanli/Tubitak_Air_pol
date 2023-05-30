@@ -1,0 +1,23 @@
+1)İşi anlama
+
+2)Veriyi Anlama
+* veri setinde verilen değerler üzerine araştırma yap 
+* ilçelerin eksik değer analizlerini yap 
+* seçilen ilçeler ve istanbul geneli için görselleştirme çalışmaları 
+
+3)Veriyi Hazırlama
+* gelecek yıllar için AQI endeksi tahmini yapılabilir. 
+    - burada yine API aracılığıyla veri çekilebilir. 
+
+
+4)Modelleme
+* Probleme uygun seçimi ve kurulumu 
+
+5) Değerlendirme
+* model sonuçlarını değerlendir 
+
+
+6)Sunum
+* problem tanımını özetle ve paylaşılan veriler üzerinden analiz yap 
+
+
